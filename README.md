@@ -28,6 +28,6 @@ Obesity and physical activity data is retrievable from the World Health Organiza
 Food consumption is retrieved from the Food and Agricultural Organization site.
 
 Probably Problematic: 
--linking up the slider to the graph and the barchart. 
+- linking up the slider to the graph and the barchart. 
 - a switch button for the scatterplot
 - getting everything done in time
