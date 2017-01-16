@@ -8,16 +8,18 @@ Growing in size
 
 The world is getting fatter with each year.
 
+![](docs/Picture2.png)
 (line graph of years vs average BMI of the world population, not necessary for MVP)
 
 More countries with a higher BMI.
 
-
+![](docs/Picture3.png)
 (infomap of obesity with a slider that sets the year, next to it a barchart can be added,making use of the same slider to represent the same data in a more overviewable form, the bars represent countries are in a certain BMI range)
 
-
+![](docs/Picture4.png)
 General idea of gaining weight is simple: consume more energy than you use.
 
+![](docs/Picture5.png)
 (scatterplot: obesity vs either physical activity or calorie intake per country, which can be switch between by the use of a button)
 
 Awereness of physical activity and calorie intake should be spread to fight obesity
