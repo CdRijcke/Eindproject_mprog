@@ -27,6 +27,7 @@ To create the visualization, an infomap has to be downloaded and bar graphs have
 Obesity and physical activity data is retrievable from the World Health Organization site.
 Food consumption is retrieved from the Food and Agricultural Organization site.
 
-Probably Problematic: -linking up the slider to the graph and the barchart. 
+Probably Problematic: 
+-linking up the slider to the graph and the barchart. 
 - a switch button for the scatterplot
 - getting everything done in time
