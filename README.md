@@ -3,7 +3,7 @@
 Obesity
 Growing in size
 
-![](docs/Picture1.jpg)
+![](docs/Picture1.png)
 
 
 The world is getting fatter with each year.
